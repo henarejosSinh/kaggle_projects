@@ -5,7 +5,7 @@ An assertion of Kaggle projects I have done to improve as a data scientist.
 
 | Projects |
 | ---------------------- |
-# **Credit card fraud project**
+## **Credit card fraud project**
 - Topics covered:
     - **Imbalanced data**
     - **Pipelines with different classifiers**
@@ -15,7 +15,7 @@ An assertion of Kaggle projects I have done to improve as a data scientist.
 
  Undersampling           |  Oversampling during Cross Validation
 :-------------------------:|:-------------------------:
-![Image](https://github.com/henarejosSinh/kaggle_projects/tree/main/pictures/credit%20%card%20%fraud/imbalanced_under.png)  |  ![Image](https://github.com/henarejosSinh/kaggle_projects/tree/main/pictures/credit%20%card%20%fraud/imbalanced_over_cv.png)
+![Image](https://github.com/henarejosSinh/kaggle_projects/tree/main/pictures/credit%20card%20fraud/imbalanced_under.png)  |  ![Image](https://github.com/henarejosSinh/kaggle_projects/tree/main/pictures/credit%20card%20fraud/imbalanced_over_cv.png)
 
  f1 score pipelines           |  Confusion matrix
 :-------------------------:|:-------------------------:
