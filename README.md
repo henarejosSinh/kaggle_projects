@@ -1,5 +1,5 @@
 # kaggle_projects
-![Image](https://github.com/henarejosSinh/kaggle_projects/tree/main/pictures/basics/ml.png)
+![Image](https://github.com/henarejosSinh/kaggle_projects/blob/main/pictures/basics/ml.png)
 
 An assertion of Kaggle projects I have done to improve as a data scientist.
 
