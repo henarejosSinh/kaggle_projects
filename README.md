@@ -5,7 +5,7 @@ An assertion of Kaggle projects I have done to improve as a data scientist.
 
 | Projects |
 | ---------------------- |
-## **Credit card fraud project**
+## [**Credit card fraud project**](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Topics covered:
     - **Imbalanced data**
     - **Pipelines with different classifiers**
